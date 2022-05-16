@@ -7,4 +7,4 @@ A bit about me:
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I can code in over 15 different programming languages
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=programmer2514&theme=tokyonight)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=programmer2514&theme=tokyonight)](https://programmer2514.github.io/)
