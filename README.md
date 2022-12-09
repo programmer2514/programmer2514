@@ -8,7 +8,7 @@ A bit about me:
 - ⭐ Pronouns: He/they (Or anything else, I'm not picky)
 - 😄 I am now PCAP certified, yay!
 
-[<img width="128" src="https://user-images.githubusercontent.com/43104632/206700432-5f75c05d-7306-493b-9b1e-83fcefc3eb27.png" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
+[<img width="96" src="https://user-images.githubusercontent.com/43104632/206700432-5f75c05d-7306-493b-9b1e-83fcefc3eb27.png" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
 
 [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer2514&langs_count=8&theme=tokyonight&layout=compact)
