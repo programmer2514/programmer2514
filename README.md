@@ -8,4 +8,7 @@ A bit about me:
 - ⭐ Pronouns: He/they (Or anything else, I'm not picky)
 - 😄 I am now PCAP certified, yay!
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=programmer2514&theme=tokyonight)](https://programmer2514.github.io/)
+[
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=programmer2514&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer2514&langs_count=8&theme=tokyonight&layout=compact)
+](https://programmer2514.github.io/)
