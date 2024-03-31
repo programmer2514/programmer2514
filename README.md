@@ -9,6 +9,6 @@ A bit about me:
 - ⭐ Pronouns: He/they (Or anything else, I'm not picky)
 
 [
-![My Github Stats](https://github-readme-stats-programmer2514.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&hide=contribs)
+![My Github Stats](https://github-readme-stats-programmer2514.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&hide=contribs&show_icons=true)
 ![Top Langs](https://github-readme-stats-programmer2514.vercel.app/api/top-langs/?username=programmer2514&langs_count=8&theme=transparent&layout=compact)
 ](https://programmer2514.github.io/)
