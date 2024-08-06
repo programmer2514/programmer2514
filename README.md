@@ -5,7 +5,7 @@ I'm a full-stack developer who enjoys experimenting with new languages and writi
 
 A bit about me:
 - ⚡ Fun fact: I can code in over 15 different programming languages
-- 📫 How to reach me: Feel free to contact me on [Discord](https://discord.com/users/563652755814875146/) or by [Email](https://mailhide.io/e/kHCbTHeA)
+- 📫 How to reach me: Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/benjaminjpryor), [Discord](https://discord.com/users/563652755814875146/), or by [Email](https://mailhide.io/e/kHCbTHeA)
 - ⭐ Pronouns: He/they (Or anything else, I'm not picky)
 
 [
