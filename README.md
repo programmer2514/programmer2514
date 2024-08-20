@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a full-stack developer who enjoys experimenting with new languages and writing plugins, applications, QoL tools, and whatever else I can make in order to help people and learn along the way.
+I'm a full-stack developer who enjoys experimenting with new languages and writing plugins, websites, applications, and tools in order to help people and learn along the way.
 
 [<img width="48" src="https://user-images.githubusercontent.com/43104632/206700432-5f75c05d-7306-493b-9b1e-83fcefc3eb27.png" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
 
