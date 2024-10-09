@@ -11,13 +11,13 @@ I'm a full-stack developer who enjoys experimenting with new languages and writi
 [<img width="66" src="https://github.com/user-attachments/assets/5bffb1da-d64c-4273-956f-699f9be49398" align="left" />](https://www.linkedin.com/in/benjaminjpryor)
 [<img width="66" src="https://github.com/user-attachments/assets/6f46c02a-a5ff-410d-9908-d67e8f1b3fde" align="left" />](https://discord.com/users/563652755814875146/)
 [<img width="66" src="https://github.com/user-attachments/assets/88dff53b-cce8-436e-8fd4-fb47f278fdd2" align="left" />](https://mailhide.io/e/kHCbTHeA)
-<br /><br /><br /><br />
+<br /><br /><br />
 
 ## Certifications
 [<img width="66" src="https://user-images.githubusercontent.com/43104632/206700432-5f75c05d-7306-493b-9b1e-83fcefc3eb27.png" align="left" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
 <br />
 [PCAP-31-03] PCAP™ – Certified Associate Python Programmer
-<br /><br /><br />
+<br /><br />
 
 ## Some Cool Stats
 <p align="left">
