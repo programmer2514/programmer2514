@@ -21,7 +21,7 @@ I'm a full-stack developer who enjoys experimenting with new languages and writi
 
 ## Some Cool Stats
 <p align="left">
-  <img src="https://github-readme-stats-programmer2514.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&hide=contribs&show_icons=true" alt="My Github Stats" height="200"/>
+  <img src="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&hide=contribs&show_icons=true" alt="My Github Stats" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-programmer2514.vercel.app/api/top-langs/?username=programmer2514&langs_count=6&theme=transparent&layout=compact" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api/top-langs/?username=programmer2514&langs_count=6&theme=transparent&layout=compact" alt="Top Langs" height="200"/>
 </p>
