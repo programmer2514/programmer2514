@@ -21,7 +21,7 @@ I'm a full-stack developer who enjoys experimenting with new languages and writi
 
 ## Some Cool Stats
 <p align="left">
-  <img src="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&show_icons=true&show=prs_merged" alt="My Github Stats" height="240"/>
+  <a href="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&show_icons=true&show=prs_merged"><img src="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api?username=programmer2514&theme=transparent&hide_rank=true&custom_title=GitHub+Stats&show_icons=true&show=prs_merged" alt="My Github Stats" height="240"/></a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api/top-langs/?username=programmer2514&langs_count=10&theme=transparent&layout=compact" alt="Top Langs" height="240"/>
+  <a href="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api/top-langs/?username=programmer2514&langs_count=10&theme=transparent&layout=compact"><img src="https://github-readme-stats-ce3f-programmer2514s-projects.vercel.app/api/top-langs/?username=programmer2514&langs_count=10&theme=transparent&layout=compact" alt="Top Langs" height="240"/></a>
 </p>
