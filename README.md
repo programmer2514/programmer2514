@@ -71,7 +71,7 @@ applications, and tools aimed at enhancing user experience and functionality
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 
 ## Certifications
-[<img width="66" src="https://user-images.githubusercontent.com/43104632/206700432-5f75c05d-7306-493b-9b1e-83fcefc3eb27.png" align="left" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
+[<img width="66" src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" align="left" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
 <br />
 [PCAP-31-03] PCAP™ – Certified Associate Python Programmer
 <br /><br />
