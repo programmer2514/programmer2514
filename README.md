@@ -9,7 +9,7 @@ applications, and tools aimed at enhancing user experience and functionality
 - ⭐ Pronouns: He/they (Or anything else, I'm not picky)
 
 ## Contact
-[![Email](https://skillicons.dev/icons?i=gmail)](https://mailhide.io/e/kHCbTHeA)
+[![Email](https://skillicons.dev/icons?i=gmail)](https://mailhide.io/e/4IH7DL3h)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/benjaminjpryor)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/563652755814875146/)
 
