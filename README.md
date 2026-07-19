@@ -17,6 +17,7 @@ applications, and tools aimed at enhancing user experience and functionality
 
 * Languages
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![C](https://skillicons.dev/icons?i=c)](https://wikipedia.org/wiki/C_(programming_language))
 [![C++](https://skillicons.dev/icons?i=cpp)](https://wikipedia.org/wiki/C%2B%2B)
 [![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/languages/csharp)
@@ -34,6 +35,7 @@ applications, and tools aimed at enhancing user experience and functionality
 
 * Tools
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
@@ -48,6 +50,7 @@ applications, and tools aimed at enhancing user experience and functionality
 
 * Frameworks / Libraries
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![Electron](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/)
@@ -58,11 +61,13 @@ applications, and tools aimed at enhancing user experience and functionality
 
 * Game Engines
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![Unreal](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/)
 
 * Platforms
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
 [![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
