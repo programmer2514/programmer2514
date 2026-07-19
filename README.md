@@ -71,11 +71,11 @@ applications, and tools aimed at enhancing user experience and functionality
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 
 ## Certifications
-&nbsp;[<img width="80" src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" align="left" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
+&nbsp;[<img width="66" src="https://images.credly.com/size/340x340/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" align="left" />](https://www.credly.com/badges/b8705b41-adac-412b-8680-83e3ffaaf995/public_url)
 <br />
 [PCAP-31-03] PCAP™ – Certified Associate Python Programmer
 <br /><br /><br />
-[<img width="80" src="https://media.badges.parchment.com/uploads/badges/assertion-SdkQS69LSvKzEjay-4SjLg.png?versionId=XiXOw9GAtUe7lwiWPBSR1RKk6TyADHii" align="left" />](https://badges.parchment.com/public/assertions/SdkQS69LSvKzEjay-4SjLg?identity__email=pryorbj@miamioh.edu)
+[<img width="66" src="https://media.badges.parchment.com/uploads/badges/assertion-SdkQS69LSvKzEjay-4SjLg.png?versionId=XiXOw9GAtUe7lwiWPBSR1RKk6TyADHii" align="left" />](https://badges.parchment.com/public/assertions/SdkQS69LSvKzEjay-4SjLg?identity__email=pryorbj@miamioh.edu)
 <br />
 OASiS Rapid Certification – Foundations in Semiconductor Manufacturing
 <br /><br />
